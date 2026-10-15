@@ -38,13 +38,13 @@ text, tspan {white-space: pre;}
 <text x="340" y="30" fill="#c9d1d9">
 <tspan id="level_data" x="590" y="77" text-anchor="middle" fill="#ffffff" font-size="15px">Level 10 Software Engineer</tspan>
 <tspan x="340" y="130" fill="#cccccc">Commits:</tspan>
-<tspan x="480" y="130" fill="#ffffff" font-weight="bold" id="commit_data">3,058</tspan>
+<tspan x="480" y="130" fill="#ffffff" font-weight="bold" id="commit_data">14,174</tspan>
 
 <tspan x="340" y="160" fill="#cccccc">Pull Requests:</tspan>
-<tspan x="480" y="160" fill="#ffffff" font-weight="bold" id="pr_data">220</tspan>
+<tspan x="480" y="160" fill="#ffffff" font-weight="bold" id="pr_data">2,531</tspan>
 
 <tspan x="340" y="190" fill="#cccccc">Code Reviews:</tspan>
-<tspan x="480" y="190" fill="#ffffff" font-weight="bold" id="review_data">17</tspan>
+<tspan x="480" y="190" fill="#ffffff" font-weight="bold" id="review_data">608</tspan>
 
 <tspan x="560" y="130" fill="#cccccc">LinkedIn:</tspan>
 <tspan x="650" y="130" fill="#88ccff">christopher-milbourne</tspan>
